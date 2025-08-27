@@ -1,0 +1,15 @@
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\bin\Release\net7.0\CDAndPWDCommandsSimulation.exe
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\bin\Release\net7.0\CDAndPWDCommandsSimulation.deps.json
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\bin\Release\net7.0\CDAndPWDCommandsSimulation.runtimeconfig.json
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\bin\Release\net7.0\CDAndPWDCommandsSimulation.dll
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\bin\Release\net7.0\CDAndPWDCommandsSimulation.pdb
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.csproj.AssemblyReference.cache
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.AssemblyInfoInputs.cache
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.AssemblyInfo.cs
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.csproj.CoreCompileInputs.cache
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.dll
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\refint\CDAndPWDCommandsSimulation.dll
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.pdb
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\CDAndPWDCommandsSimulation.genruntimeconfig.cache
+C:\Users\91637\OneDrive\Desktop\Office Task\CDAndPWDCommandsSimulation1\CDAndPWDCommandsSimulation\obj\Release\net7.0\ref\CDAndPWDCommandsSimulation.dll
